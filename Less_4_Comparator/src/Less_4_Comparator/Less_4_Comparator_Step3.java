@@ -58,7 +58,7 @@ public class Less_4_Comparator_Step3 {
         for (Employee emp_from_comparing: my_emp_for_test) {
             System.out.println(emp_from_comparing);
         }
-		System.out.println("------------------- Пример каскадирования метода *.comparing() и *.thenComparing -------------------");
+        System.out.println("------------------- Пример каскадирования метода *.comparing() и *.thenComparing -------------------");
         // В данном примере сравнение сначала происходит по одному полю класса, затем по другому.
         Collections.sort(my_emp_for_test, Comparator.comparing(Employee::getName).thenComparing(Employee::getSalary));
         for (Employee emp_from_comparing: my_emp_for_test) {
