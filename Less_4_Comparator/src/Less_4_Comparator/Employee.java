@@ -53,4 +53,8 @@ class Employee {
     public String getSurname() {
         return surname;
     }
+
+    public double getSalary() {
+        return salary;
+    }
 }
