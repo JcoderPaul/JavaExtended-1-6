@@ -1,4 +1,4 @@
-- [Interface Comparator<T>](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)
+- [`Interface Comparator<T>`](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)
 
 ---
 ### Урок напоминалка по интерфейсу Comparator. 
