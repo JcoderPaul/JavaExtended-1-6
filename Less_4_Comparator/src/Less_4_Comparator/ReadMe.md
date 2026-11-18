@@ -1,4 +1,4 @@
-- [`Interface Comparator<T>`](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)
+- [`Interface Comparator<T>` (form ORACLE DOC)](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)
 
 ---
 ### Урок напоминалка по интерфейсу Comparator. 
@@ -12,17 +12,21 @@
 
 ---
 **Доп. материалы:**
-- [Interface Comparator](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)
-- [Comparator and Comparable in Java](https://www.baeldung.com/java-comparator-comparable)
-- [Java Comparator Interface](https://www.geeksforgeeks.org/java/java-comparator-interface/)
-- [Java Advanced Sorting (Comparator and Comparable)](https://www.w3schools.com/java/java_advanced_sorting.asp)
+- [Interface Comparator (from ORACLE)](https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html)
+- [Comparator and Comparable in Java **(from baeldung.com)**](https://www.baeldung.com/java-comparator-comparable)
+- [Java Comparator Interface **(from geeksforgeeks.org)**](https://www.geeksforgeeks.org/java/java-comparator-interface/)
+- [Java Advanced Sorting (Comparator and Comparable) **(from w3schools.com)**](https://www.w3schools.com/java/java_advanced_sorting.asp)
 - [Comparator в Java](https://javarush.com/groups/posts/1939-comparator-v-java)
-- [Writing and Combining Comparators](https://dev.java/learn/language/fp/lambdas/writing-comparators/)
+- [Writing and Combining Comparators **(from dev.java)**](https://dev.java/learn/language/fp/lambdas/writing-comparators/)
 - [Java Comparator Interface: comparing(), thenComparing(), nulls](https://howtodoinjava.com/java/collections/java-comparator/)
-- [Java’s Comparator.comparing() Method Explained **[by Alexander Obregon](https://alexanderobregon.substack.com/)**](https://medium.com/@AlexanderObregon/javas-comparator-comparing-method-explained-342361288af6)
+- [Java’s Comparator.comparing() Method Explained **(by Alexander Obregon)**](https://medium.com/@AlexanderObregon/javas-comparator-comparing-method-explained-342361288af6)
 - []()
 - []()
 - []()
 - []()
 - []()
 - []()
+
+---
+- [Alexander Obregon’s Substack](https://alexanderobregon.substack.com/)
+- [Alexander Obregon article on Medium](https://medium.com/@AlexanderObregon)
