@@ -16,12 +16,14 @@
 - [Comparator and Comparable in Java **(from baeldung.com)**](https://www.baeldung.com/java-comparator-comparable)
 - [Java Comparator Interface **(from geeksforgeeks.org)**](https://www.geeksforgeeks.org/java/java-comparator-interface/)
 - [Comparator Methods and Examples **(from geeksforgeeks.org)**](https://www.geeksforgeeks.org/java/comparator-methods-and-examples/)
+- [Stream sorted (Comparator comparator) method in Java **(from geeksforgeeks.org)**](https://www.geeksforgeeks.org/java/stream-sorted-comparator-comparator-method-java/)
 - [Java Advanced Sorting (Comparator and Comparable) **(from w3schools.com)**](https://www.w3schools.com/java/java_advanced_sorting.asp)
 - [Writing and Combining Comparators **(from dev.java)**](https://dev.java/learn/language/fp/lambdas/writing-comparators/)
 - [Java’s Comparator.comparing() Method Explained **(by Alexander Obregon)**](https://medium.com/@AlexanderObregon/javas-comparator-comparing-method-explained-342361288af6)
 - [Java Comparator Example **(from javaguides.net)**](https://www.javaguides.net/2018/12/java-comparator-interface-example.html)
 
 ---
+- [Java 8 tips - Comparator (doc) **(from java-8-tips.readthedocs.io)**](https://java-8-tips.readthedocs.io/en/stable/comparator.html)
 - [Comparator Interface in Java](https://www.codingshuttle.com/java-programming-handbook/comparator-interface-in-java?srsltid=AYCX9vIVZ_L7EP2XqWXStzm0Jpj0H_9vmEpfBswIb9qejUBKwcbr6LAD)
 - [7 Examples of Comparator and Comparable in Java 8](https://javarevisited.blogspot.com/2023/04/7-examples-of-comparator-and-comparable.html)
 - [How to use Comparator in Java to sort?](https://stackoverflow.com/questions/2839137/how-to-use-comparator-in-java-to-sort)
