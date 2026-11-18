@@ -19,7 +19,7 @@
 - [Comparator в Java](https://javarush.com/groups/posts/1939-comparator-v-java)
 - [Writing and Combining Comparators](https://dev.java/learn/language/fp/lambdas/writing-comparators/)
 - [Java Comparator Interface: comparing(), thenComparing(), nulls](https://howtodoinjava.com/java/collections/java-comparator/)
-- [Java’s Comparator.comparing() Method Explained **([by Alexander Obregon](https://alexanderobregon.substack.com/))**](https://medium.com/@AlexanderObregon/javas-comparator-comparing-method-explained-342361288af6)
+- [Java’s Comparator.comparing() Method Explained **[by Alexander Obregon](https://alexanderobregon.substack.com/)**](https://medium.com/@AlexanderObregon/javas-comparator-comparing-method-explained-342361288af6)
 - []()
 - []()
 - []()
